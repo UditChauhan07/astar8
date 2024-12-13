@@ -6,6 +6,7 @@ function App() {
   return (
     <a href="https://astar8.com" target="_blank" rel="noopener noreferrer">
     <img src={img} className="mt-4" alt="Clickable Image" />
+    </a>
     <h1 className="text-center  mt-1 faq-heading">Frequently Asked Questions</h1>
 
     <div className="mt-5 maindivv">
