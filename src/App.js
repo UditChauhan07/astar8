@@ -5,10 +5,7 @@ import img from './Images/cropped-AStar8.png'
 function App() {
   return (
     <div className="container">
-  <a href="https://astar8.com" target="_blank" rel="noopener noreferrer">
-    <img src={img} className="mt-4" alt="Clickable Image" />
-  </a>
-</div>
+         <img src={img} className="mt-4"/>
     <h1 className="text-center  mt-1 faq-heading">Frequently Asked Questions</h1>
 
     <div className="mt-5 maindivv">
